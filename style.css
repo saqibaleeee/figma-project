@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+*{margin: 0;
+padding: 0; list-style: none;
+text-decoration: none;}
+body{ background: rgba(6, 6, 6, 0.85);}
+header{display: flex;
+justify-content: space-around;
+align-items: center;
+/* width: 1440px; */
+height: 99px;
+flex-shrink: 0;
+background: #0E0E0E;}
+/* main{background: rgba(6, 6, 6, 0.85); */
+   text-align: center;}
+   header ul li a:hover{background-color:orange;
+transition: 1s ease; border-radius: 6px;}
+header img{width: 83px;
+    height: 89.532px;
+    flex-shrink: 0;
+image-orientation: none;}
+    header ul {display: flex;
+    gap: 60px;} 
+    header button{border-radius: 5px;
+        background: #F60;
+        width: 92px;
+        height: 34px;
+        flex-shrink: 0;}
+        header ul li{color: aliceblue;}
+        main h1{font-family: 'Irish Grover', system-ui;color: #FFF;
+         
+            font-size: 44px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 70px; 
+            /* text-align: center; */
+            width: 374px;
+        margin: auto;}
+        main h1 span{ color:  #F60;;}
+        main p{width: 702px;
+            height: 100px;
+            flex-shrink: 0;
+            color: #FFF;
+            text-align: center;
+            font-family: Poppins;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            margin: auto;}
+            main div {color: #FFF;
+                font-family: Poppins;
+                font-size: 44px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                border-radius: 5px;
+                background: #F60;
+                width: 1245px;
+                height: 54px;
+                flex-shrink: 0;
+            margin: auto; margin-top: 30px;}
+                main button{border-radius: 5px;
+                    background: #F60;
+                    width: 99px;
+                    height: 34px;
+                    flex-shrink: 0;
+                width: 100px;
+            margin-left: 100px;}
+
+                /* section property */
+section h2{font-family: "Irish Grover";
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+width: 500px;
+margin-left: 100px;}
+
+section p{font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 660px;
+    height: 140px;
+    flex-shrink: 0;
+    width: 500px;
+    margin-left: 100px;
+margin-top: 18px;}
+
+section img{width: 300px;
+    height: 271px;
+    flex-shrink: 0;}
+
+    section button {color: #140f0f;
+        font-family: Poppins;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        width: 182px;
+        height: 43px;
+        flex-shrink: 0;
+        border-radius: 5px;
+        background: #F60;
+    margin-left: 100px;
+}
+        .parent-container {
+            display: flex;
+            justify-content: flex-end;/* or other values */
+          }
+
+          .section2 h3{width: 398px;
+            height: 146px;
+            flex-shrink: 0;
+            font-family: "Irish Grover";
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        margin: auto;
+    }
+    .p2{width: 487px;
+        height: 27px;
+        flex-shrink: 0;
+        margin-left: 477px}
+        /* .section3 property */
+          
+.section3.div{display: flex;}
+        .section3 #div1 p{background-color: #0E0E0E;
+            height: 187px;
+            width: 220px; 
+            border: 2px solid red; 
+            color: #FFF;
+         
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 22px;
+border-radius: 5px;
+            }
+           
+  .section3 #div2 p{background-color: #0E0E0E;
+    height: 187px;
+    width: 220px; 
+    border: 2px solid red; 
+    color: #FFF;
+
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 22px;
+border-radius: 5px;}
+.div2 p{width: 200px;}
+
+.section3 #div3 p{background-color: #0E0E0E;
+    height: 187px;
+    width: 220px; 
+    border: 2px solid red; 
+    color: #FFF;
+
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 22px;
+border-radius: 5px;}
+.div2 p{width: 200px;}
